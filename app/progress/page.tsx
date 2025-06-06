@@ -1,7 +1,7 @@
 'use client'
 
-import Layout from '@/components/Layout'
-import { mockCourses } from '@/lib/mockData'
+import Layout from '../../components/Layout'
+import { mockCourses } from '../../lib/mockData'
 import { CheckCircleIcon, ClockIcon, TrophyIcon } from '@heroicons/react/24/outline'
 
 export default function ProgressPage() {

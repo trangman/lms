@@ -1,7 +1,7 @@
 'use client'
 
 import { useState } from 'react'
-import { Assessment, AssessmentQuestion } from '@/lib/supabase'
+import { Assessment, AssessmentQuestion } from '../lib/supabase'
 import { CheckCircleIcon, XCircleIcon } from '@heroicons/react/24/outline'
 
 interface AssessmentProps {

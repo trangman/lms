@@ -1,6 +1,6 @@
 'use client'
 
-import Layout from '@/components/Layout'
+import Layout from '../../components/Layout'
 import { UserIcon, BuildingOfficeIcon, EnvelopeIcon, PhoneIcon } from '@heroicons/react/24/outline'
 
 export default function ProfilePage() {
